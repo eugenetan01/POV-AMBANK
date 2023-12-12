@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Transaction_notification_alert",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
